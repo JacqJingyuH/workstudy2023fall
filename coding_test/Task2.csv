@@ -1,0 +1,19 @@
+﻿TweetID,is_misinfo,category,Breaking News,Normal News,Pro-life,Pro-Choice,Note
+1540348242960846849,no,news,,x,,,
+1540345715616006148,no,opinion,,,,x,
+1540341761658085376,no,news,x,,,,
+1540338100521603074,no,news,,x,,,
+1521296227291312133,yes,news,,x,,,"the disclaimer (with image reference) under this tweet says the barricades have been up since at least April 26, 2022, but the tweet was posted on May 2 and said they were up just now"
+1540343622486327296,no,opinion,,,x,,
+1521328439759761408,yes,news,,x,,,the protest on the picture was a protest for violence towards women instead of abortion rights (the picture was included in this Reuters article https://www.reuters.com/article/us-womens-day-mexico-march/women-march-in-mexico-to-make-their-voices-heard-seek-justice-idUSKBN2B02CO)
+1540337296473526272,no,opinion,,,,x,
+1540405941094326272,no,news,,x,,,
+1522330619618996225,yes,news,,x,,,The text in this tweet does not match what Psaki said in the video
+,,,,,,,
+,,,,,,,
+,,,,,,,
+"The way I differentiate the two is that news provide information on a current event, while opinions try to convince readers to adopt a particular position on that event",,,,,,,
+"News should be neutral; it should not be conveying author's view on the matter, nor to include words that try to lead readers to certain stance on that matter. ",,,,,,,
+"However, if the text is simply quoting someone's opinion, the text itself is still a piece of news",,,,,,,
+,,,,,,,
+"To retrieve the tweet, I used https://twitter.com/username/status/tweetID, since twitter does not care what value you put in the username field, I didn't need the author's username",,,,,,,
